@@ -39,8 +39,8 @@
 |📡 Cisco Packet Tracer | Simulació de xarxes bàsiques |
 
 ## 📂 Projectes Destacats
-* **⭐Millor projecte anterior: 🛒 Bits & Bolts - Botiga Online de Tecnologia**
-  - *Descripció:* Projecte acadèmic desenvolupat en equip amb Figma per al disseny i prototipat d'una botiga online de tecnologia. Fet per: ``Pau V. I Mayte G.``
+* **⭐Millor projecte: 🛒 Bits & Bolts - Botiga Online de Tecnologia**
+  - *Descripció:* Projecte acadèmic desenvolupat en equip amb Figma per al disseny i prototipat d'una botiga online de tecnologia <br>**Desenvolupat per:** ``Pau V. I Mayte G.``
   - *Enllaç:* [Veure projecte Figma](https://www.figma.com/proto/aQqFxOKlZXYvnCnHbRWkke/Bits---Bolts---Mayte-y-Pau?node-id=2-2)
     - 🎨 Disseny UI/UX
     - 📦 Més de 100 productes i pàgines
@@ -63,7 +63,7 @@
 
 ## 📬 Contacte
 - 📧 **Correu:** [alu.pau.valls@mataro.epiaedu.cat](mailto:alu.pau.valls@mataro.epiaedu.cat)
-- 💼 **Linkedin:** [Perfil en LikedIn](linkedin.com/in/pau-valls-alemany-97364b38a)
+- 💼 **Linkedin:** [Perfil en LikedIn](https://linkedin.com/in/pau-valls-alemany-97364b38a)
 - 🏫 **Centre:** [EP Mataró](https://epmataro.cat)
 
 ---

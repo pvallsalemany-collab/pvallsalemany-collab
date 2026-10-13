@@ -10,6 +10,12 @@ Aquesta és la meva presentació per al perfil professional de GitHub de 2n de S
 
 ## 💻 Actualment estic aprenent
 ![VisualCode](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Familiaritzat-blue?style=for-the-badge&logo=Linux&logoColor=Linux-Familiaritzat-blue)
+
+## 📟 Sistemes operatius nivell principiant
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=Linux-Ubuntu-i-Zorin-blue)
+![Zorin](https://img.shields.io/badge/Zorin%20OS-Linux-15A6F0?style=for-the-badge&logo=zorin&logoColor=Linux-Ubuntu-i-Zorin-blue)
+![Windows](https://img.shields.io/badge/Windows-SO-0078D4?style=for-the-badge&logo=windows&logoColor=Linux-Ubuntu-i-Zorin-blue)
 
 
 ## 📚 Estudis i Formació

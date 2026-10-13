@@ -39,3 +39,6 @@ Aquesta és la meva presentació per al perfil professional de GitHub de 2n de S
 ## 📬 Contacte
 - 📧 **Correu:** [alu.pau.valls@mataro.epiaedu.cat](mailto:alu.pau.valls@mataro.epiaedu.cat)
 - 🏫 **Centre:** [EP Mataró](https://epmataro.cat)
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=false&textBg=false&fontColor=255&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=66)

@@ -20,12 +20,15 @@ Aquesta és la meva presentació per al perfil professional de GitHub de 2n de S
 
 ## 📚 Estudis i Formació
 - **CFGM Sistemes Microinformàtics i Xarxes (SMX)** | EP Mataró *(2n Curs, 2025-2027)* **Cursant actualment**
+
+- **Educació Secundària Obligatòria (ESO)** | Institut Les Cinc Sènies **Graduat**
 ---
 
 ## 📂 Projectes Destacats
-* **Projecte 1: Metodologia de treball i entorn**
-  - *Descripció:* Gestió de tasques mitjançant backlog i reunions documentades amb IA.
+* **Projecte 1:  Documentar i versionar: Markdown i Git local**
+  - *Descripció:* Aprendre a redactar documentació tècnica estructurada utilitzant el llenguatge de marcatge Markdown i gestionar el seu historial de versions de forma local amb Git abans de pujar-ho a GitHub.
   - *Enllaç:* [Veure repositori del Projecte 1](https://github.com/pvallsalemany-collab/primer_repositori)
+
 
 
 ## 🎯 Objectius Professionals

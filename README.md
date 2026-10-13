@@ -39,6 +39,15 @@
 |📡 Cisco Packet Tracer | Simulació de xarxes bàsiques |
 
 ## 📂 Projectes Destacats
+* **⭐Millor projecte anterior: 🛒 Bits & Bolts - Botiga Online de Tecnologia**
+  - *Descripció:* Projecte acadèmic desenvolupat en equip amb Figma per al disseny i prototipat d'una botiga online de tecnologia. Fet per: ``Pau V. I Mayte G.``
+  - *Enllaç:* [Veure projecte Figma](https://www.figma.com/proto/aQqFxOKlZXYvnCnHbRWkke/Bits---Bolts---Mayte-y-Pau?node-id=2-2)
+    - 🎨 Disseny UI/UX
+    - 📦 Més de 100 productes i pàgines
+    - 🔗 Navegació interactiva mitjançant prototips
+    - 🤝 Treball col·laboratiu
+    - 🛠️ Desenvolupat durant el curs acadèmic
+
 * **Projecte 1:  Documentar i versionar: Markdown i Git local**
   - *Descripció:* Aprendre a redactar documentació tècnica estructurada utilitzant el llenguatge de marcatge Markdown i gestionar el seu historial de versions de forma local amb Git abans de pujar-ho a GitHub.
   - *Enllaç:* [Veure repositori del Projecte 1](https://github.com/pvallsalemany-collab/primer_repositori)

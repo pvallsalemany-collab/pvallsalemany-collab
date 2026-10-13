@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Interessat+en+Linux;Apassionat+per+la+inform%C3%A0tica;Sempre+descobrint+noves+tecnologies+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-Aquesta és la meva presentació per al perfil professional de GitHub de 2n de SMX.
+
 
 
 ## 🛠️ Tecnologies i Competències (SMX)

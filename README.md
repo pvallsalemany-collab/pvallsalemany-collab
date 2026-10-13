@@ -1,9 +1,5 @@
 # 👋 Hola, soc en Pau Valls Alemany
 
-![Muntatge](https://shields.io)
-![Xarxes](https://shields.io)
-![Sistemes Operatius](https://shields.io)
-![Seguretat](https://shields.io)
 
 Aquesta és la meva presentació per al perfil professional de GitHub de 2n de SMX.
 

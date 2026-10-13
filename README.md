@@ -52,7 +52,18 @@
   - *Descripció:* Aprendre a redactar documentació tècnica estructurada utilitzant el llenguatge de marcatge Markdown i gestionar el seu historial de versions de forma local amb Git abans de pujar-ho a GitHub.
   - *Enllaç:* [Veure repositori del Projecte 1](https://github.com/pvallsalemany-collab/primer_repositori)
 
+## 💡 Interessos professionals
 
+> [!NOTE]
+> ### 🛠️ Maquinari, sistemes i tecnologia
+>
+> El meu principal interès és el **muntatge i manteniment d'equips informàtics**, especialment l'anàlisi dels components, la compatibilitat del maquinari i la resolució d'incidències.
+>
+> També m'interessa conèixer el funcionament intern d'altres dispositius electrònics, com ara **consoles, telèfons mòbils i tauletes**, així com aprofundir en **Linux, xarxes i administració de sistemes**.
+>
+> M'agrada analitzar l'arquitectura, el rendiment i les limitacions dels components, comparar diferents generacions de maquinari i mantenir-me al dia de les últimes novetats tecnològiques.
+>
+> &emsp;  
 
 ## 🎯 Objectius Professionals
 - [ ] Dominar l'administració de xarxes informàtiques LAN/WLAN.

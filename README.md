@@ -1,5 +1,6 @@
 # 👋 Hola, sóc en Pau Valls Alemany
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Interessat+en+Linux;Apassionat+per+la+inform%C3%A0tica;Sempre+descobrint+noves+tecnologies+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 Aquesta és la meva presentació per al perfil professional de GitHub de 2n de SMX.
 
@@ -11,6 +12,7 @@ Aquesta és la meva presentació per al perfil professional de GitHub de 2n de S
 ## 💻 Actualment estic aprenent
 ![VisualCode](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Familiaritzat-blue?style=for-the-badge&logo=Linux&logoColor=Linux-Familiaritzat-blue)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=181717)
 
 ## 📟 Sistemes operatius nivell principiant
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=Linux-Ubuntu-i-Zorin-blue)
@@ -38,7 +40,13 @@ Aquesta és la meva presentació per al perfil professional de GitHub de 2n de S
 
 ## 📬 Contacte
 - 📧 **Correu:** [alu.pau.valls@mataro.epiaedu.cat](mailto:alu.pau.valls@mataro.epiaedu.cat)
+- 💼 **Linkedin:** [Perfil en LikedIn](linkedin.com/in/pau-valls-alemany-97364b38a)
 - 🏫 **Centre:** [EP Mataró](https://epmataro.cat)
 
+
+
+<p align="center">
+Gràcies per visitar el meu perfil 👋
+</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=false&textBg=false&fontColor=255&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=66)

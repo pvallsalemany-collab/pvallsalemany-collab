@@ -1,6 +1,6 @@
 # 👋 Hola, sóc en Pau Valls Alemany
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Interessat+en+Linux;Apassionat+per+la+inform%C3%A0tica;Sempre+descobrint+noves+tecnologies+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=true&width=435&lines=Interessat+en+Linux;Apassionat+per+la+inform%C3%A0tica;Sempre+descobrint+noves+tecnologies+)](https://git.io/typing-svg)
 
 
 
@@ -20,11 +20,23 @@
 ![Windows](https://img.shields.io/badge/Windows-SO-0078D4?style=for-the-badge&logo=windows&logoColor=Linux-Ubuntu-i-Zorin-blue)
 
 
+
 ## 📚 Estudis i Formació
 - **CFGM Sistemes Microinformàtics i Xarxes (SMX)** | EP Mataró *(2n Curs, 2025-2027)* **Cursant actualment**
 
 - **Educació Secundària Obligatòria (ESO)** | Institut Les Cinc Sènies **Graduat**
----
+
+## 📊 Resum de Competències
+
+| Àrea | Coneixements |
+|-------|-------------|
+|🛠️Muntatge i manteniment | `Punt fort:` Hardware, compatibilitats i manteniment d'equips|
+|🐧 Linux | Ubuntu, Zorin OS, terminal bàsica |
+|🪟 Windows | Instal·lació, configuració i manteniment |
+|🌐 Xarxes | DHCP, SSH, SCP, adreçament IP |
+|🐙 Git i GitHub | Commits, repositoris i control de versions |
+|💻 Eines | Visual Studio Code, VirtualBox |
+|📡 Cisco Packet Tracer | Simulació de xarxes bàsiques |
 
 ## 📂 Projectes Destacats
 * **Projecte 1:  Documentar i versionar: Markdown i Git local**
@@ -38,12 +50,14 @@
 - [ ] Formar-me en la gestió de servidors Linux i Windows Server.
 - [ ] Realitzar les pràctiques en empresa (FCT) en un entorn de suport tècnic.
 
+---
+
 ## 📬 Contacte
 - 📧 **Correu:** [alu.pau.valls@mataro.epiaedu.cat](mailto:alu.pau.valls@mataro.epiaedu.cat)
 - 💼 **Linkedin:** [Perfil en LikedIn](linkedin.com/in/pau-valls-alemany-97364b38a)
 - 🏫 **Centre:** [EP Mataró](https://epmataro.cat)
 
-
+---
 
 <p align="center">
 Gràcies per visitar el meu perfil 👋

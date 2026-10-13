@@ -1,11 +1,35 @@
-# Hola sóc en Pau Valls Alemany 
-![Windows](https://shields.io) <br> 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge) <br>
-![Coverage](https://shields.io) <br>
-![GitHub Repo](https://shields.io) <br>
+# 👋 Hola, soc en Pau Valls Alemany
 
-![Windows](https://shields.io)
-![BUILD PASSING](https://shields.io)
-![Cobertura](https://shields.io)
-![Repositori de GitHub](https://shields.io)
+![Muntatge](https://shields.io)
+![Xarxes](https://shields.io)
+![Sistemes Operatius](https://shields.io)
+![Seguretat](https://shields.io)
 
+Aquesta és la meva presentació per al perfil professional de GitHub de 2n de SMX.
+
+---
+
+## 🛠️ Tecnologies i Competències (SMX)
+Aquí tens les eines i sistemes amb els quals treballo al Grau Mitjà:
+- **Sistemes Operatius:** Windows 10/11, Linux Ubuntu i Windows Server
+- **Xarxes locals:** Protocols TCP/IP, configuració de routers i xarxes LAN
+- **Control de versions:** Git y GitHub amb Visual Studio Code
+
+---
+
+## 📚 Estudis i Formació
+- **CFGM Sistemes Microinformàtics i Xarxes (SMX)** | EP Mataró *(2n Curs, 2025-2027)*
+- **Educació Secundària Obligatòria (ESO)** | [Nom del teu institut] *(Graduat)*
+
+---
+
+## 📂 Projectes Destacats
+* **Projecte 1: Metodologia de treball i entorn**
+  - *Descripció:* Gestió de tasques mitjançant backlog i reunions documentades amb IA.
+  - *Enllaç:* [Veure repositori del Projecte 1](https://github.com)
+
+---
+
+## 📬 Contacte
+- 📧 **Correu:** [alu.pau.valls@mataro.epiaedu.cat](mailto:alu.pau.valls@mataro.epiaedu.cat)
+- 🏫 **Centre:** [EP Mataró](https://epmataro.cat)

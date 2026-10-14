@@ -56,6 +56,8 @@
 
 > [!NOTE]
 > ### 🛠️ Maquinari, sistemes i tecnologia
+> 
+> ![PC sobretaula](https://tse1.mm.bing.net/th/id/OIP.vlZi4ZuUGd00p7PFSh0NpwHaFj?r=0&pid=ImgDet&w=474&h=355&rs=1&o=7&rm=3)
 >
 > El meu principal interès és el **muntatge i manteniment d'equips informàtics**, especialment l'anàlisi dels components, la compatibilitat del maquinari i la resolució d'incidències.
 >
